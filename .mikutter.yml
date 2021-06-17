@@ -1,0 +1,11 @@
+---
+slug: :5g
+depends:
+  mikutter: 4.1.5
+  plugin: []
+version: '1.0'
+author: toshi_a
+name: '5G'
+description: >-
+  あなたを高速化することにより、mikutterの5G回線利用時の投稿速度を向上します。
+  また、5G回線以外で利用した場合、5G回線同様の投稿速度を実現します。
